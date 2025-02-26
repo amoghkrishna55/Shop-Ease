@@ -1,0 +1,58 @@
+# Shopease
+
+Shopease is a user-friendly e-commerce platform designed to simplify online shopping for both customers and merchants.
+
+## Features
+
+- **User Authentication**: Secure login and registration.
+- **Product Management**: Add, edit, and delete products.
+- **Search**: Find products easily.
+- **Shopping Cart**: Add and manage items in the cart.
+- **Checkout**: Seamless checkout process.
+- **Order Management**: Track and manage orders.
+- **Payment Integration**: Supports multiple payment gateways.
+
+## Routes
+
+- **/register**: User registration.
+- **/login**: User login.
+- **/products**: View all products.
+- **/products/:id**: View a single product.
+- **/cart**: View and manage shopping cart.
+- **/checkout**: Proceed to checkout.
+- **/orders**: View user orders.
+
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/amoghkrishna55/shopease.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd shopease
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+
+## Usage
+
+1. Start the development server:
+   ```
+   npm start
+   ```
+2. Open your browser and navigate to `http://localhost:3000`.
+
+## Contributing
+
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, please contact us at support@shopease.com.
